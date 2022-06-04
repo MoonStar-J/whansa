@@ -1,4 +1,16 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=whansa&fontSize=70&animation=twinkling)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhansa%2Fhit-counter&count_bg=%238977AD&title_bg=%23333333&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+<div align="center">
+  
+<!-- ## Available Skill  
+![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=flat-square&logo=c&logoColor=white) -->
+
+## Baekjoon Rank
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jms020820)](https://solved.ac/jms020820)  
+
+</div>
 
 <!--
 **whansa/whansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
