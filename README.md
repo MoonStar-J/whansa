@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MoonStar-J&fontSize=70&animation=twinkling)  
+[![wakatime](https://wakatime.com/badge/user/f164221c-a1d7-4aec-a719-e8aaa35d2527.svg)](https://wakatime.com/@f164221c-a1d7-4aec-a719-e8aaa35d2527)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhansa%2Fhit-counter&count_bg=%238977AD&title_bg=%23333333&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 <div align="center">
