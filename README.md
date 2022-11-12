@@ -6,7 +6,7 @@
   
 <!-- ## Available Skill  
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=flat-square&logo=c&logoColor=white) -->
-
+##없데이트
 ## Baekjoon Rank
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jms020820)](https://solved.ac/jms020820)  
